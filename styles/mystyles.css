@@ -1,0 +1,81 @@
+body{
+  background-image: url("../images/wavebackground.png") ;
+  height: 100%;
+  width: 100%;
+}
+.whitetext{
+color:floralwhite
+}
+
+.resumepieces{
+text-align: left;
+font-size: large;
+font-style: bold;
+margin-top: 0;
+margin-bottom: 0.5rem;
+font-family: "Helvetica Neue", -apple-system, BlinkMacSystemFont, "Open Sans", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+font-weight: 250;
+line-height: 1.2;
+color: rgb(255, 255, 255);
+
+}
+
+.resumelist{
+font-size: 1.875rem;
+margin-top: 1.875rem;
+margin-bottom: 0.625rem;
+text-align: left;
+font-style: oblique;
+color:rgb(0, 0, 0)
+}
+
+.resumepara{
+text-align: center;
+font-size: large;
+text-decoration-line: underline;
+font-style: italic;
+} 
+
+.resumetitle{
+text-align: center;
+font-size: large;
+text-decoration-line: underline;
+font-style: bold;
+margin-top: 0;
+margin-bottom: 0.5rem;
+font-family: "Helvetica Neue", -apple-system, BlinkMacSystemFont, "Open Sans", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+font-weight: 800;
+line-height: 1.2;
+color: floralwhite;
+
+}
+
+.Accolades{
+margin-top: 0;
+margin-bottom: 0.5rem;
+font-family: "Helvetica Neue", -apple-system, BlinkMacSystemFont, "Open Sans", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+font-weight: 400;
+line-height: 1.2;
+color: floralwhite;
+
+}
+
+h1, .h1{
+  margin-top: 0;
+  margin-bottom: 0.5rem;
+  font-family: "Segoe UI", -apple-system, BlinkMacSystemFont, "open sans" , Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  font-weight: 8000;
+  line-height: 1.2;
+  font-style: inherit;
+  color:crimson;
+}
+
+.chickjoeresume{
+  margin-top: 0;
+  margin-bottom: 0.5rem;
+  font-family: "Segoe UI", -apple-system, BlinkMacSystemFont, "open sans" , Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  font-weight: 8000;
+  line-height: 1.2;
+  font-style: inherit;
+  color:plum;
+}
